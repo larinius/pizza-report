@@ -1,0 +1,9 @@
+.center-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.center-container > :first-child {
+  margin: 10px;
+}
